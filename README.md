@@ -4,10 +4,4 @@
 ###### Let's get started.
 # Notice
 ###### I hosted my website on GitHub. Don't modify or delete files from this repository.
-###### However, you can download these files & edit them.
-###### Please don't edit the original one.
-## Don't edit these files.
-- about.txt
-- colors.txt
-- copyright.txt
-- credits.txt
+###### However, you can download these files & edit them. But you can't edit the original files.
